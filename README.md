@@ -18,5 +18,5 @@
 ---
 
 <div align="justify" style="max-width: 800px; margin: 0 auto;">
-<p>kize, just a tech!</p>
+<p>kize, just a tech.</p>
 </div>
